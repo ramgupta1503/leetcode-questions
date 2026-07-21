@@ -51,7 +51,7 @@
 
 // LEETCODE QUESTION :- 258
 
-class Main {
+public class questions {
     public static void main(String[] args) {
         int answer = 0, num = 199, output = 0, rem, digit, number = 0;
         while(num>0){
